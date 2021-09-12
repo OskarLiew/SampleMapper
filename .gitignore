@@ -1,0 +1,8 @@
+env/
+.vscode
+__pycache__/
+.ipynb_checkpoints/
+assets/
+
+# This was a test with daeploy, should not be part of main code
+testservice
